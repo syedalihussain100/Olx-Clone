@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

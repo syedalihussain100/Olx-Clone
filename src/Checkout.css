@@ -1,0 +1,60 @@
+.check_out {
+    display: flex;
+    padding: 20px;
+    background-color: #fff;
+    height: max-content;
+}
+
+.checkout_ad {
+    width: 100%;
+    position: relative;
+    height: 101px;
+    top: -17px;
+}
+
+.lol1 {
+    color: red;
+    position: relative;
+    margin-left: -350px;
+    font-family: 'Noto Serif', serif;
+    font-weight: bold;
+}
+
+.checkout_title {
+    color: yellowgreen;
+    /* animation-name: example;
+    animation-duration: 4s; */
+    position: relative;
+    margin-left: -216px;
+    font-family: 'Noto Serif', serif;
+    font-weight: bold;
+}
+
+.checkout_title {
+    animation: mymove 5s infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes mymove {
+    from {
+        left: 0px;
+    }
+    to {
+        left: 200px;
+    }
+}
+
+/* @keyframes example {
+    0% {
+        color: red;
+    }
+    25% {
+        color: yellow;
+    }
+    50% {
+        color: blue;
+    }
+    100% {
+        color: green;
+    }
+} */

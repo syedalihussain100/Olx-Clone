@@ -1,0 +1,108 @@
+body {
+    background: white;
+}
+
+.login___logo {
+    text-decoration: none;
+    color: #696969;
+    border: none;
+}
+.login___logo:hover{
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: #696969;
+}
+
+.main__image {
+    background: url("https://uidesigndaily.com/uploads/1192/day_1192.png");
+    background-size: cover !important;
+    height: 100vh;
+}
+
+.login__logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.lolpop {
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'emoji';
+    letter-spacing: 10px;
+    font: bolder;
+}
+
+.one {
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    height: auto;
+    background: #fff;
+    position: absolute;
+    margin-left: 355px;
+    margin-top: -10px;
+    box-shadow: 10px 10px 10px 10px #888888;
+}
+
+.one:hover {
+    background: whitesmoke;
+}
+
+.one__two {
+    margin-top: 30px;
+    width: 100%;
+    padding: 5px;
+}
+
+.one__three {
+    margin-top: 20px;
+    width: 100%;
+    padding: 5px;
+}
+
+.lol__wear {
+    margin-left: -214px;
+    position: relative;
+    top: 37px;
+    font-size: 14px;
+}
+
+.lol2 {
+    margin-left: -189px;
+    position: relative;
+    top: 30px;
+    font-size: 14px;
+}
+
+/* button */
+
+.btn__lol {
+    margin-top: 30px !important;
+    border-radius: 20px;
+}
+
+.lol__p {
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.create__btn {
+    border-radius: 100px !important;
+    margin-top: 30px !important;
+}
+
+.one>h1 {
+    color: #696969;
+    font-size: 38px;
+    font-weight: bold;
+}
